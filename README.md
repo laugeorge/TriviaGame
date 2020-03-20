@@ -2,7 +2,7 @@
 
 ## Preview
 
-![App Preview](https://github.com/laugeorge/TriviaGame/blob/master/public/snapshot.jpg)
+![App Preview](https://github.com/laugeorge/TriviaGame/blob/master/snapshot.jpg)
 
 
 ## Intro and Instruction
