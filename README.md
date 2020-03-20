@@ -1,4 +1,4 @@
-# [Pixar Trivia](https://burger-joy.herokuapp.com/index)
+# [Pixar Trivia](https://pixar-trivia.herokuapp.com/)
 
 ## Preview
 
